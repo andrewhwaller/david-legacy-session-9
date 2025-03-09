@@ -29,7 +29,7 @@ fonts:
 
 # Rebuilding the Fallen Tent
 
-## Session 9: Out of Egypt I Have Called My Shepherd
+## Session 9: Who is the Lord of the Sabbath?
 
 ---
 layout: quote
