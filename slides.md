@@ -110,6 +110,10 @@ Jesus answered, “Have you not read what David did when he and his companions w
 He entered the house of God and took and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and gave some to his companions?”
 Then he said to them, “The Son of Man is lord of the sabbath.”
 
+<!--
+* Michael Wolter: “\[I\]n Luke Jesus argues not from the analogy of the situation but with the help of the authority of David, who overrides an instruction of the Torah. The concern is not with the question of what situations of distress override a Torah commandment... but with the right that David may presume for himself in relation to the Torah.”
+-->
+
 ---
 layout: quote
 ---
