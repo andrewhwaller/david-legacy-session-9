@@ -135,9 +135,90 @@ David said, “There is none like it; give it to me.”
 layout: statement
 ---
 
-Curiously, this story is essentially ommitted from early Jewish retellings of David's story.
+# This story is not featured in early Jewish retellings of David's story.
 
 <!--
 * Josephus simply states that David "requested to receive provisions" (*Ant.* 6.243). 
 * Similarly, *L.A.B.* 63.1--2 does not directly narrate David's encounter with the priest, only referencing David's reception of the sword of Goliath from Ahimelech in the context of Doeg's report to Saul.
 -->
+
+---
+layout: statement
+---
+
+# How does David acquire the right to override the law?
+# More specifically, how does David acquire authority *relative to the Sabbath*?
+
+---
+layout: quote
+---
+
+# 1 Chronicles 23:25--32
+\[David took a census of the Levites and organized their houses.\]
+For David said, “The <sc>Lord</sc>, the God of Israel, has given rest to his people; and he resides in Jerusalem forever.
+And so the Levites no longer need to carry the tabernacle or any of the things for its service...
+but their duty shall be to assist the descendants of Aaron for the service of the house of the <sc>Lord</sc>, having the care of the courts and the chambers, the cleansing of all that is holy, and any work for the service of the house of God; to assist also with <span v-mark="{color: '#59b58a', type: 'highlight', click: 1}">the rows of bread</span>.\.\.\.
+And they shall stand every morning, thanking and praising the <sc>Lord</sc>, and likewise at evening, and whenever burnt offerings are offered to the <sc>Lord</sc> on <span v-mark="{color: '#59b58a', type: 'highlight', click: 2}">sabbaths, new moons, and appointed festivals</span>, according to the number required of them, regularly before the <sc>Lord</sc>.
+Thus they shall keep charge of the tent of meeting and the sanctuary, and shall attend the descendants of Aaron, their kindred, for the service of the house of the <sc>Lord</sc>.”
+
+---
+layout: quote
+---
+
+# 2 Chronicles 35:4--6
+Make preparations by your ancestral houses by your divisions, following the written directions of King David of Israel and the written directions of his son Solomon.
+Take position in the holy place according to the groupings of the ancestral houses of your kindred the people, and let there be Levites for each division of an ancestral house.
+Slaughter the passover lamb, sanctify yourselves, and on behalf of your kindred make preparations, acting according to the word of the <sc>Lord</sc> by Moses.”
+
+# 2 Chronicles 35:15
+The singers, the descendants of Asaph, were in their place according to the command of David, and Asaph, and Heman, and the king’s seer Jeduthun.
+The gatekeepers were at each gate; they did not need to interrupt their service, for their kindred the Levites made preparations for them.
+
+---
+layout: quote
+---
+
+# Ben Sira, Sirach 47:9--10
+\[David\] placed singers before the altar, to make sweet melody with their voices.
+He gave beauty to the festivals, and arranged their times throughout the year, while they praised God's holy name, and the sanctuary resounded from early morning.
+
+# Josephus, *Ant.* 7.305
+David composed songs and hymns to God in varied meters.... He also produced musical instruments and taught the Levites to play hymns to God on these on the day called the Sabbath and on other feastdays.
+
+---
+layout: quote
+---
+
+# 11Q5 27.1--11: “David's Compositions”
+And David, son of Jesse, was wise, and a light like the light of the sun, and learned,\
+and discerning, and perfect in all his paths before God and men. And\
+YHWH gave him a discerning and enlightened spirit. And he wrote psalms:\
+three thousand six hundred; and songs to be sung before the altar over the perpetual\
+offering of every day, for all the days of the year: three hundred\
+and sixty-four; and <span v-mark="{color: '#59b58a', type: 'highlight', click: 1}">for the sabbath offerings: fifty-two songs</span>\.\.\.\.\
+All these he spoke through the spirit of prophecy which had been given to him from before the Most High.
+
+---
+layout: statement
+---
+
+# David, like Moses, is a “master of the sabbath.”
+
+<!--
+* For at least some early Jewish authors, then, when it comes to the temple and the observance of sacred time, David possesses a distinct authority.
+  * Why do the Levites serve in their divisions and assist the priests in the temple? Because David commanded it.
+  * Why do the temple musicians play their instruments and sing on the Sabbath? Because David taught them.
+  * Who gave Israel inspired songs to mark every Sabbath of the year? David did.
+* According to the texts surveyed above, David's authority in this sphere is not due to a generic royal or interpretive prerogative.
+  * Rather, David's Sabbath authority flows out of his status as the prophetic founder of Israel's temple cult.
+  * Stated perhaps more provocatively, if there is any figure within the early Jewish literary imagination that could attain to the title of "lord of the Sabbath," it is David.
+-->
+
+---
+layout: statement
+---
+# Prophets as administrators
+
+## Numbers 1:5--15: Moses appoints Israel's twelve tribal leaders
+## 1 Chronicles 27:16--22: David's census names Israel's twelve tribal leaders
+## Luke 6:12--19: Jesus assembles twelve new leaders for Israel on a mountain
