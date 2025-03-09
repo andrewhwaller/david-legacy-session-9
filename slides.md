@@ -29,134 +29,7 @@ fonts:
 
 # Rebuilding the Fallen Tent
 
-## Session 8: Out of Egypt I Have Called My Shepherd
-
----
-layout: quote
----
-
-# Mark 12:35-37
-
-While Jesus was teaching in the temple, he said, “How can the scribes say that the Messiah is the son of David?
-David himself, by the Holy Spirit, declared,\
-&emsp;&emsp;‘The Lord said to my Lord,\
-&emsp;&emsp;“Sit at my right hand,\
-&emsp;&emsp;&emsp;until I put your enemies under your feet.”’\
-David himself calls him Lord; so how can he be his son?”
-And the large crowd was listening to him with delight. 
-
----
-layout: quote
----
-
-# Pseudo-Philo, *Liber Antiquitatum Biblicarum* 61.5--9
-David set out, and he took seven stones and wrote on them the names of his fathers, Abraham, Isaac, and Jacob, Moses and Aaron, and his own name and that of the Lord.
-God sent Zeruel, the angel in charge of power.
-
-\[David taunts/defeats Goliath, etc.\]
-
-The Philistine looked and saw the angel and said, “Not you alone killed me, but also he who was present with you, whose appearance is not like the appearance of a man.”
-Then David cut off his head.
-The angel of the Lord changed David's appearance, and no one recognized him.
-When Saul saw David, he asked him who he was, and there was no one who recognized him.
-
-# Mark 1:12--13
-And the Spirit immediately drove him out into the wilderness.
-He was in the wilderness forty days, tempted by Satan; and he was with the wild beasts; and the angels waited on him.
-
----
-layout: quote
----
-
-# Matthew 1:1--17
-An account of the genealogy of Jesus the Messiah, the son of David, the son of Abraham. 
-Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers... and Boaz the father of Obed by Ruth, and Obed the father of Jesse, and Jesse the father of King David.
-And David was the father of Solomon by the wife of Uriah, and Solomon the father of Rehoboam... and Josiah the father of Jechoniah and his brothers, at the time of the deportation to Babylon. 
-And after the deportation to Babylon: Jechoniah was the father of Salathiel... and Jacob the father of Joseph the husband of Mary, of whom Jesus was born, who is called the Messiah.
-So all the generations from Abraham to David are fourteen generations; and from David to the deportation to Babylon, fourteen generations; and from the deportation to Babylon to the Messiah, fourteen generations. 
-
----
-layout: quote
----
-
-# Matthew 1:18--25
-Now the birth of Jesus the Messiah took place in this way. When his mother Mary had been engaged to Joseph, but before they lived together, she was found to be with child from the Holy Spirit.
-Her husband Joseph, being a righteous man and unwilling to expose her to public disgrace, planned to dismiss her quietly.
-But just when he had resolved to do this, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to take Mary as your wife, for the child conceived in her is from the Holy Spirit.
-She will bear a son, and you are to name him Jesus, for he will save his people from their sins.”
-All this took place to fulfill what had been spoken by the Lord through the prophet:\
-&emsp;“Look, the virgin shall conceive and bear a son,\
-&emsp;&emsp;and they shall name him Emmanuel,”\
-which means, “God is with us.”
-When Joseph awoke from sleep, he did as the angel of the Lord commanded him\.\.\.\.
-
----
-layout: quote
----
-
-# Matthew 2:1--11
-In the time of King Herod, after Jesus was born in Bethlehem of Judea, wise men from the East came to Jerusalem\.\.\.\.
-When King Herod heard this, he was frightened, and all Jerusalem with him; and calling together all the chief priests and scribes of the people, he inquired of them where the Messiah was to be born.
-They told him, “In Bethlehem of Judea; for so it has been written by the prophet:\
-&emsp;‘And you, Bethlehem, in the land of Judah,\
-&emsp;&emsp;are by no means least among the rulers of Judah;\
-&emsp;&emsp;for from you shall come a ruler\
-&emsp;&emsp;who is to shepherd my people Israel.’”\
-\[T\]hey set out; and there, ahead of them, went the star that they had seen at its rising, until it stopped over the place where the child was\.\.\.\.
-On entering the house, they saw the child with Mary his mother; and they knelt down and paid him homage. Then, opening their treasure chests, they offered him gifts of gold, frankincense, and myrrh.
-
----
-layout: quote
----
-
-# Matthew 2:13--18
-Now after they had left, an angel of the Lord appeared to Joseph in a dream and said, “Get up, take the child and his mother, and flee to Egypt, and remain there until I tell you; for Herod is about to search for the child, to destroy him.”
-Then Joseph got up, took the child and his mother by night, and went to Egypt, and remained there until the death of Herod.
-This was to fulfill what had been spoken by the Lord through the prophet, “Out of Egypt I have called my son.” 
-When Herod saw that he had been tricked by the wise men, he was infuriated, and he sent and killed all the children in and around Bethlehem who were two years old or under, according to the time that he had learned from the wise men.
-Then was fulfilled what had been spoken through the prophet Jeremiah:\
-&emsp;“A voice was heard in Ramah,\
-&emsp;&emsp;wailing and loud lamentation,\
-&emsp;&emsp;Rachel weeping for her children;\
-&emsp;&emsp;she refused to be consoled, because they are no more.”
-
----
-layout: quote
----
-
-# Matthew 3:16--4:2
-And when Jesus had been baptized, just as he came up from the water, suddenly the heavens were opened to him and he saw the Spirit of God descending like a dove and alighting on him.
-And a voice from heaven said, “This is my Son, the Beloved, with whom I am well pleased.”
-Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.
-He fasted forty days and forty nights\.\.\.\.
-
-
----
-layout: quote
----
-
-# Matthew 9:27--30
-As Jesus went on from there, two blind men followed him, crying loudly, “Have mercy on us, Son of David!”\.\.\.\.
-Then he touched their eyes and said, “According to your faith let it be done to you.”
-And their eyes were opened.
-
-# Matthew 12:22--24
-Then they brought to him a demoniac who was blind and mute; and he cured him\.\.\.\.
-All the crowds were amazed and said, “Can this be the Son of David?”
-But when the Pharisees heard it, they said, “It is only by Beelzebul, the ruler of the demons, that this fellow casts out the demons.”
-
----
-layout: quote
----
-
-# Matthew 15:21--28
-Jesus left that place and went away to the district of Tyre and Sidon.
-Just then a Canaanite woman from that region came out and started shouting, “Have mercy on me, Lord, Son of David; my daughter is tormented by a demon.”
-... He answered, “I was sent only to the lost sheep of the house of Israel.”
-But she came and knelt before him, saying, “Lord, help me.”
-He answered, “It is not fair to take the children’s food and throw it to the dogs.”
-She said, “Yes, Lord, yet even the dogs eat the crumbs that fall from their masters’ table.”
-Then Jesus answered her, “Woman, great is your faith! Let it be done for you as you wish.” And her daughter was healed instantly. 
+## Session 9: Out of Egypt I Have Called My Shepherd
 
 ---
 layout: quote
@@ -183,20 +56,6 @@ layout: quote
 The blind and the lame came to him in the temple, and he cured them.
 But when the chief priests and the scribes saw the amazing things that he did, and heard the children crying out in the temple, “Hosanna to the Son of David,” they became angry and said to him, “Do you hear what these are saying?”
 
-
----
-layout: quote
----
-
-# Matthew 22:41--46
-Now while the Pharisees were gathered together, Jesus asked them this question: “What do you think of the Messiah? Whose son is he?” They said to him, “The son of David.”
-He said to them, “How is it then that David by the Spirit calls him Lord, saying,\
-&emsp;‘The Lord said to my Lord,\
-&emsp;&emsp;“Sit at my right hand,\
-&emsp;&emsp;until I put your enemies under your feet”’?\
-If David thus calls him Lord, how can he be his son?”
-No one was able to give him an answer, nor from that day did anyone dare to ask him any more questions.
-
 ---
 layout: quote
 ---
@@ -208,3 +67,63 @@ Therefore, thus says the Lord GOD to them: I myself will judge between the fat s
 Because you pushed with flank and shoulder, and butted at all the weak animals with your horns until you scattered them far and wide, I will save my flock, and they shall no longer be ravaged; and I will judge between sheep and sheep. 
 I will set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd.
 And I, the <sc>Lord</sc>, will be their God, and my servant David shall be prince among them; I, the <sc>Lord</sc>, have spoken. 
+
+---
+layout: statement
+---
+
+# Luke 3--4: Jesus receives an anointing like David's
+
+---
+layout: quote
+---
+
+# Mk 2:23--28
+One sabbath \[Jesus\] was going through the grainfields; and as they made their way his disciples began to pluck heads of grain.
+The Pharisees said to him, “Look, why are they doing what is not lawful on the sabbath?”
+And he said to them, “Have you never read what David did when he and his companions were hungry and in need of food?
+He entered the house of God, when Abiathar was high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and he gave some to his companions.”
+Then he said to them, “The sabbath was made for humankind, and not humankind for the sabbath; so the Son of Man is lord even of the sabbath.”
+
+---
+layout: quote
+---
+
+# Mt 12:1--8
+At that time Jesus went through the grainfields on the sabbath; his disciples were hungry, and they began to pluck heads of grain and to eat.
+When the Pharisees saw it, they said to him, “Look, your disciples are doing what is not lawful to do on the sabbath.”
+He said to them, “Have you not read what David did when he and his companions were hungry?
+He entered the house of God and ate the bread of the Presence, which it was not lawful for him or his companions to eat, but only for the priests.
+Or have you not read in the law that on the sabbath the priests in the temple break the sabbath and yet are guiltless?
+I tell you, something greater than the temple is here.
+But if you had known what this means, ‘I desire mercy and not sacrifice,’ you would not have condemned the guiltless.
+For the Son of Man is lord of the sabbath.”
+
+---
+layout: quote
+---
+
+# Lk 6:1--5
+One sabbath while Jesus was going through the grainfields, his disciples plucked some heads of grain, rubbed them in their hands, and ate them.
+But some of the Pharisees said, “Why are you doing what is not lawful on the sabbath?”
+Jesus answered, “Have you not read what David did when he and his companions were hungry?
+He entered the house of God and took and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and gave some to his companions?”
+Then he said to them, “The Son of Man is lord of the sabbath.”
+
+---
+layout: quote
+---
+
+# 1 Sam 21:1--9
+David came to Nob to the priest Ahimelech. Ahimelech came trembling to meet David, and said to him, “Why are you alone, and no one with you?”
+David said to the priest Ahimelech, “The king has charged me with a matter, and said to me, ‘No one must know anything of the matter\.\.\.\.’
+Now then, what have you at hand?
+Give me five loaves of bread, or whatever is here.”
+The priest answered David, “I have no ordinary bread at hand, only holy bread—provided that the young men have kept themselves from women.”
+David answered the priest, “Indeed women have been kept from us as always when I go on an expedition\.\.\.\.”
+So the priest gave him the holy bread; for there was no bread there except the bread of the Presence, which is removed from before the <sc>Lord</sc>, to be replaced by hot bread on the day it is taken away\.\.\.\.
+David said to Ahimelech, “Is there no spear or sword here with you?
+I did not bring my sword or my weapons with me, because the king’s business required haste.”
+The priest said, “The sword of Goliath the Philistine... is here wrapped in a cloth behind the ephod; if you will take that, take it\.\.\.\.”
+David said, “There is none like it; give it to me.”
+
