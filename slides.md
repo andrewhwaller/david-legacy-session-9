@@ -131,3 +131,13 @@ I did not bring my sword or my weapons with me, because the king’s business re
 The priest said, “The sword of Goliath the Philistine... is here wrapped in a cloth behind the ephod; if you will take that, take it\.\.\.\.”
 David said, “There is none like it; give it to me.”
 
+---
+layout: statement
+---
+
+Curiously, this story is essentially ommitted from early Jewish retellings of David's story.
+
+<!--
+* Josephus simply states that David "requested to receive provisions" (*Ant.* 6.243). 
+* Similarly, *L.A.B.* 63.1--2 does not directly narrate David's encounter with the priest, only referencing David's reception of the sword of Goliath from Ahimelech in the context of Doeg's report to Saul.
+-->
